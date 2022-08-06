@@ -10,8 +10,7 @@ on:
     branches:
       - "*"  # run for branches
     tags:
-      - "*"  # run for tags
-      
+      - "*"  # run for tags  
 
 jobs:
   test:
