@@ -11,6 +11,7 @@ on:
       - "*"  # run for branches
     tags:
       - "*"  # run for tags
+      
 
 jobs:
   test:
